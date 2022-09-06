@@ -3,5 +3,5 @@ echo "hello";
 echo "new hello";
 echo "new new hello";
 echo "new new piyu";
-echo "qhwehjewh merge tool";
+echo "qhwehjewh merge tool practise";
 ?>
